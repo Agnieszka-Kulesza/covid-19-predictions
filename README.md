@@ -1,0 +1,2 @@
+# covid-19-predictions
+Prediction of the number of Covid-19 infections In Poland from the beginning of the pandemic to April 20, based on 32- day period from March 10 to April 10. Checking the difference between the actual number of infections and the number calculated by the program by three models: linear regression, Multiple Regression (the number of cases depends on x, x^2, and x^3), and exponential regression.
